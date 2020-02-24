@@ -1,0 +1,3 @@
+rfkill unblock bluetooth
+rfcomm bind rfcomm0 20:68:9D:3F:48:3F
+
